@@ -1,0 +1,33 @@
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets and local environment settings
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
+~$*
+
+# Local database and backup copies
+database/*.db
+backups/
+
+# Raw and processed datasets are synthetic and reproducible
+# Keep the generated data out of Git until the repository is reviewed
+data/raw/*.csv
+data/processed/*.csv
