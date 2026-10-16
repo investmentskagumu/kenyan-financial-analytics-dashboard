@@ -1,0 +1,4 @@
+﻿transaction_status,transaction_count,transaction_value_ksh
+Successful,9240,230673724.53
+Failed,580,14627936.81
+Pending,180,4630660.9

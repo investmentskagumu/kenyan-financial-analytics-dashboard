@@ -1,0 +1,5 @@
+﻿payment_method,transaction_count,success_rate_pct,successful_value_ksh
+M-Pesa,5475,92.46,127364786.03
+Bank Transfer,1998,92.49,45174108.28
+Debit Card,1524,91.14,34565157.2
+Airtel Money,1003,93.82,23569673.02
