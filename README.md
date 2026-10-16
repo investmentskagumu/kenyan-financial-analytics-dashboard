@@ -6,6 +6,18 @@ An end-to-end financial analytics portfolio project using Python, SQL, SQLite, a
 
 The project demonstrates data generation, validation, database management, SQL analysis, data preparation, and interactive business intelligence reporting.
 
+
+## Project Highlights
+
+- Built an end-to-end financial analytics workflow using Python, SQL, SQLite, and Power BI.
+- Generated and validated a dataset of 10,000 synthetic Kenyan-style financial transactions.
+- Analysed transaction success, failure rates, payment methods, customer activity, and monthly trends.
+- Developed a three-page interactive Power BI dashboard for financial performance monitoring.
+- Created reusable SQL reports and data-validation scripts to support reproducible analysis.
+- Documented data quality checks, assumptions, and limitations to support responsible interpretation.
+
+**Portfolio focus:** Financial analytics | Data cleaning and validation | SQL reporting | Business intelligence | Power BI
+
 ## Project Objectives
 
 - Analyse transaction volumes and transaction values.
