@@ -58,6 +58,24 @@ The dataset contains transaction identifiers, dates, customer identifiers, custo
 
 These figures describe the synthetic dataset and are provided for demonstration purposes.
 
+## Dashboard Preview
+
+The dashboard contains three interactive pages designed to explore transaction performance, payment methods, and customer activity.
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
+### Transaction Analysis
+
+![Transaction Analysis](screenshots/transaction_analysis.png)
+
+### Customer Analysis
+
+![Customer Analysis](screenshots/customer_analysis.png)
+
+*Note: The screenshots show illustrative analysis based on synthetic transaction data. The interactive dashboard is available in the `powerbi/` folder.*
+
 ## Dashboard Pages
 
 ### 1. Executive Dashboard
